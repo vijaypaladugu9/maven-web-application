@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>webapp</name>
-	      <url>http://18.119.0.218:8081/repository/webapp/</url>
+	      <name>maven-web-aapp</name>
+	      <url>http://3.136.83.81:8081/repository/maven-web-aapp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
