@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-new</name>
-	      <url>http://18.219.255.80:8081/repository/maven-new/</url>
+	      <name>demonew</name>
+	      <url>http://18.219.255.80:8081/repository/demonew/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
