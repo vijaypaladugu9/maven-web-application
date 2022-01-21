@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>demonew</name>
-	      <url>http://18.219.255.80:8081/repository/demonew/</url>
+	      <name>web-app</name>
+	      <url>http://18.118.14.76:8081/repository/web-app/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
