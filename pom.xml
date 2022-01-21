@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>web-app</name>
-	      <url>http://18.118.14.76:8081/repository/web-app/</url>
+	      <name>webapp</name>
+	      <url>http://18.118.14.76:8081/repository/webapp/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
