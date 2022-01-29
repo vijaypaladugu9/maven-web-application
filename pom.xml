@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<!--  mah<log4j.version>1.2.17</log4j.version> -->
-		<sonar.host.url>http://54.77.252.207:9000/</sonar.host.url>
+		<sonar.host.url>http://54.216.84.3:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>admin</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>today</name>
-	      <url>http://54.246.204.140:8081/repository/cicd/</url>
+	      <name>cicd2</name>
+	      <url>http://34.241.53.150:8081/repository/cicd2/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
