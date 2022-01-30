@@ -28,8 +28,8 @@ stages{
   }  
    stage('deploy'){
      steps{
-       sshagent(['tomcat_credentials_new']) {
-    sh 'scp -o StrictHostKeyChecking=no target/*.war ec2-user@18.118.134.113:/opt/apache-tomcat-9.0.56/webapps/'
+       sshagent(['pipeline']) {
+    sh 'scp -o StrictHostKeyChecking=no target/*.war ec2-user@52.209.36.144/:/opt/apache-tomcat-9.0.58/webapps/'
 }
      }
   }    
